@@ -1,0 +1,18 @@
+h1{
+    color: rgb(98, 101, 103);
+    padding-left: 10px;
+}
+h3{
+    color: red;
+}
+p1{
+    color: black;
+    font-weight: bold;
+}
+body{
+    background-color:#B9DCEA; 
+    backface-visibility: initial;
+}
+ul3{
+    padding-left: 10000px ;
+}
